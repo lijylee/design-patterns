@@ -1,6 +1,6 @@
 # 设计模式
 
-*迁移2019年的项目，[原地址](https://github.com/lijingyulee/design-patterns-master)*
+*迁移2019年的项目，[原地址](https://github.com/lijingyulee/design-patterns)*
 
 博客地址：
 
